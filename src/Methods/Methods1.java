@@ -12,6 +12,7 @@ public class Methods1 {
         System.out.println("Toplam : "+(birinciSayi+ikinciSayi));
     }
     public static void menuGoster(){
+        System.out.println("sadsa");
         System.out.println("*** Menü ***");
         System.out.println("1- İki Sayının Toplamını Bul");
         System.out.println("2- İki Sayının Farkını Bul");
