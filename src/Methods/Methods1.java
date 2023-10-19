@@ -19,3 +19,5 @@ public class Methods1 {
         System.out.println("3- İki Sayının Çarpımını Bul");
     }
 }
+//Method overload :
+//Aynı isimli iki metodu birbirinden ayırt etmeye yarıyor. int, double ... parametreye bakıyor.
