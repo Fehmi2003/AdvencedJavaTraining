@@ -11,6 +11,10 @@ public class foreach {
         String isimler[]={"Fehmi","Emirhan","Furkan"};
         for (String isim :isimler)
             System.out.println("For each İsim :"+isim);
+        denemeMethod();
+    }
+
+    private static void denemeMethod() {
     }
 
 
